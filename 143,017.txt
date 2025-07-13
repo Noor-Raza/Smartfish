@@ -1,0 +1,99 @@
+|:----------------------------|:-------------------------------|
+| RFC emisor:                 | PPA900903210                   |
+| Nombre emisor:              | SOCIEDAD COOPERATIVA DE        |
+|                             | PRODUCCION PESQUERA Y ACUICOLA |
+|                             | LLANO DEL TIGRE                |
+| Folio:                      | 258                            |
+| RFC receptor:               | SRV130629SU6                   |
+| Nombre receptor:            | SMARTFISH RESCATE DE VALOR     |
+| Código postal del receptor: | 23000                          |
+| Régimen fiscal receptor:    | Personas Morales con Fines no  |
+|                             | Lucrativos                     |
+| Uso CFDI:                   | Adquisición de mercancías.     |
+
+| Folio fiscal: No. de serie del   | f12ea4ee-5f84-4eac-92a4-   |
+| CSD:                             | 8b642881d2eb               |
+|                                  | 00001000000501313255       |
+|:---------------------------------|:---------------------------|
+| Serie:                           | B                          |
+| Código postal, fecha y hora de   | 63636 2022-12-21 13:45:37  |
+| emisión:                         |                            |
+| Efecto de comprobante:           | Ingreso                    |
+| Régimen fiscal:                  | Actividades Agrícolas,     |
+|                                  | Ganaderas, Silvícolas y    |
+|                                  | Pesqueras                  |
+| Exportación:                     | No aplica                  |
+
+Conceptos
+
+|   Clave del producto y/o | No. identificación   |   Cantidad | Clave de unidad   | Unidad   |   Valor unitario | Importe    | Descuento   | Objeto impuesto        |
+|                 servicio |                      |            |                   |          |                  |            |             |                        |
+|-------------------------:|:---------------------|-----------:|:------------------|:---------|-----------------:|:-----------|:------------|:-----------------------|
+|                 50121612 |                      |     953.45 | KGM               | KGM      |              150 | 143,017.50 |             | Si objeto de impuesto. |
+
+Descripción
+
+NOVECIENTOS CINCUENTA Y TRES KILOGRAMOS CUATROCIENTOS CINCUENTA GRAMOS DE CAMARON BLANCO DESCABEZADO
+
+Impuesto
+
+Tipo
+
+Base
+
+Tipo Factor
+
+Tasa o Cuota
+
+Importe
+
+IVA
+
+Traslado
+
+143,017.50
+
+Tasa
+
+0.00%
+
+0.00
+
+| Número de pedimento   | Número de cuenta predial   |
+|:----------------------|:---------------------------|
+|                       |                            |
+
+|:----------------|:------------------------|
+| Moneda:         | Peso Mexicano           |
+| Forma de pago:  | Por definir             |
+| Método de pago: | Pago en parcialidades o |
+|                 | diferido                |
+
+|:--------------------------|:------|:-------------|
+| Subtotal                  |       | $ 143,017.50 |
+| Impuestos trasladados IVA | 0.00% | $ 0.00       |
+| Total                     |       | $ 143,017.50 |
+
+Sello digital del CFDI:
+
+i8cFJq/pbhh/2hEvQRnE/43zx5/MCgyhA3P10ivrAPKLBC4TZV1KAjV+8ugPaU0dZgUAQ2d6fDC5tdEJFU/YL0STHEewo8LvOstHzcgpoMR1VD0wGmKMEzooPhvsquhej+F3Pa+4Dxktky7oS QLCFyFJCpVe+HHAAkH0NdrqkxEKsjQxlJ5L3AB8CEpHpMW5vgnkj9WENR1kncqZZWXs8pifru0vQv560nNOVP3Z4R2BD1JqvUBPs0JOAFOpaN1tiVe0A+m0gyJc1KSVbNuXRMHkzoxdII 8vtQTK0oUywY5PN0VLbZt5CEC7JBiyW+iKXtbHK5bZXTgPpPLLL34zaw==
+
+Sello digital del SAT:
+
+s2Ch6nhN9W3VW7clo5dkPb1tKH3JkhC18tOQol0wHlfijt1m9swLn6Vg7mDTQ2MMg1mlCMUdeI+pqQFMTnf0cer47PvKChqY3TSeOEGNe9bUdeo5TKwwsR03DxH0WgfAC0YAXHRazlpUp gLffILmZWnSWTvAbzEmJItGNsKhuRyJ1lLV0coOapaSJPjBI8H42yrhEZ6rdBaAjErvmx2POQL8Z6ORCMNWjgnIUZ5McuiZbg6K7RU1ebDqDZjRuMRSulhKmVp0culBe26Coevth7cJAYq4yQ sGmk0ebEAhr8v4kQUibeEBJAi6mhPrX/t83RgFCYCPoRZwHpZGWn4MCg ==
+
+Barcode
+
+Cadena Original del complemento de certificación digital del SAT:
+
+|1.1|f12ea4ee-5f84-4eac-92a4-8b642881d2eb|2022-12-21T14:45:37|AUR100128NN3|i8cFJq/pbhh/2hEvQRnE/43zx5/MCgyhA3P10ivrAPKLBC4TZV1KA jV+8ugPaU0dZgUAQ2d6fDC5tdEJFU/YL0STHEewo8LvOstHzcgpoMR1VD0wGmKMEzooPhvsquhej+F3Pa+4Dxktky7oSQLCFyFJCpVe+HHAAkH0Ndrq kxEKsjQxlJ5L3AB8CEpHpMW5vgnkj9WENR1kncqZZWXs8pifru0vQv560nNOVP3Z4R2BD1JqvUBPs0JOAFOpaN1tiVe0A+m0gyJc1KSVbNuXRMHkzox dII8vtQTK0oUywY5PN0VLbZt5CEC7JBiyW+iKXtbHK5bZXTgPpPLLL34zaw==|00001000000505750848||
+
+RFC del proveedor de certificación: AUR100128NN3
+
+Fecha y hora de certificación: 2022-12-21 14:45:37
+
+No. de serie del certificado SAT 00001000000505750848
+
+Este documento es una representación impresa de un CFDI
+
+Página 1 de 1

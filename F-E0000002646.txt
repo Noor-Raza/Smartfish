@@ -1,0 +1,62 @@
+Image With Text:
+query4; PLANTA EL ROSARIO, B. CH
+
+SOCIEDAD COOPERATIVA DE PRODUCCION PESQUERA ENSENADA SCL SCP400425MGA Domicilio Conocido No. SN, El Rosario de Arriba El Rosario Baja California México LUGAR DE EXPEDICION: C.P. 22960 Régimen Fiscal: 622 - Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras
+
+FACTURA Tipo comprobante I - Ingreso E - 2646 FECHA
+
+Julio 12 2021 - 10:27:55
+
+FACTURAR A: C005
+
+COMERCIALIZADORA HEALTHY FISH SAPI DE CV AMSTERDAM No. 26 No. Int D Hipódromo Ciudad de México, Ciudad de México, México TEL
+
+C.P 06100 R.F.C. CHF150630DT5
+
+| CANTIDAD   | UNIDAD    | DESCRIPCIÓN                  | UNITARIO   | IMPUESTO 1   | IMPORTE    |
+|:-----------|:----------|:-----------------------------|:-----------|:-------------|:-----------|
+| 1,018.31   | KILOS     | 50121537 - Pescado congelado | 161.00     | 002 - IVA -  | 163,947.91 |
+|            | KGM -     | FILETE DE PESCADO SIN PIEL   |            | 0.00         |            |
+|            |           | Blanco                       |            |              |            |
+|            | Kilogramo |                              |            |              |            |
+| 123.35     | KILOS     | 50121537 - Pescado congelado | 135.00     | 002 - IVA -  | 16,652.25  |
+|            | KGM -     | FILETE DE PESCADO PICADO     |            | 0.00         |            |
+|            |           | Blanco                       |            |              |            |
+|            | Kilogramo |                              |            |              |            |
+| 79.89      | KILOS     | 50121537 - Pescado congelado | 127.00     | 002 - IVA -  | 10,146.03  |
+|            | KGM -     | FILETE DE PESCADO CON PIEL   |            | 0.00         |            |
+|            |           | Blanco                       |            |              |            |
+|            | Kilogramo |                              |            |              |            |
+
+OBSERVACIONES: ESTA FACTURA SE DERIVA DEL AVISO DE ARRIBO ELECTRONICO No.BE2021036700, BE2021043745, BE2021044896, BE2021046026, BE2021050179, BE2021051503, BE2021053235, BE2021056019, BE2021057083 y BE2021057530 Y GUIA DE PESCA 02/10/07/021/5199 CON NUMERO DE PERMISO 1020309930789
+
+|:-------------------------------|:----------|:-----------|
+| CANTIDAD CON LETRA MONEDA: MXN | SUB-TOTAL | 190,746.19 |
+| - Peso Mexicano Tipo de        |           |            |
+| Cambio: 20.0070 CIENTO NOVENTA |           |            |
+| MIL SETECIENTOS CUARENTA Y     |           |            |
+| SEIS PESOS 19/100 M.N.         |           |            |
+|                                | I.V.A     | 0.00       |
+|                                | TOTAL $   | 190,746.19 |
+
+SELLO DIGITAL DEL CFDI SERIE CERTIFICADO EMISOR 00001000000503987658
+
+K4Ev9lbQOLjQmLX7ceQ+vyiUE1HyDHVekdx5SpDOqWSaq3Y+6hIAO1lvAJCL+OMIl/CXSEzmoDVAjdjGqJYSfiuA2X0b22ghzhCe WdUHmV2lgRTWkpalUS6Pke2IRN8Ovpnyrx0DR/5jvkIZ1nIj+MOJzGsiqUGTmONGm1hjofx955BfhqGcDpIXVITd34ZqaTszkVfA YGbvvH6UvCq74HFcVRnU1Q6ssEDMnKQuE4yiY1GnEtMIXRBhRwIwD95HbZJt0zLqRawP887wsohYgmpIJXfY/aNOJd2Ghd1fhzyR ZKg3SIhB+FPxSv0uC8xAyO5sa2+ei0Z0jMqEPwT3vw==
+
+SELLO DIGITAL DEL S.A.T.
+
+g8yHLq5Xx+MaQO7W3pKh+gDKpjT6IqVU2UjFS6EHsttwmCpFujy/Wh905M5hIEFURnRtSj5f/jQ/MuSj0TuFYMLjHfpbFd7azumo nRARPpl463l55/gmCNH4bSIlCY33vIZPvdBgGBUUX5hVnFn6aztTQ4oMPs1b8aHhRBV0PHspsr6sZVPLoJvHAwAQMVN22bhN/3zG lyOJBNiwp0WdYVS+E4cBSzSAwiFp/S/julDtQkAS1ZjsaVi+T8947Mnr8bzdx5ZoRv7j5tyBXlHZTwZyul3jJDCHC/7z6v/YdcEM 6tAjeyEwh/HOAH01vKPuNRRLy/sC4/Wwor+QA8RISA ==
+
+Cadena original del complemento de certificación digital del SAT
+
+||1.1|9651111D-3DED-497E-8F33-82BE608A0D4B|2021-07-12T12:27:57|MAS0810247C0|K4Ev9lbQOLjQmLX7ceQ+vyiU E1HyDHVekdx5SpDOqWSaq3Y+6hIAO1lvAJCL+OMIl/CXSEzmoDVAjdjGqJYSfiuA2X0b22ghzhCeWdUHmV2lgRTWkpalUS6Pke2I RN8Ovpnyrx0DR/5jvkIZ1nIj+MOJzGsiqUGTmONGm1hjofx955BfhqGcDpIXVITd34ZqaTszkVfAYGbvvH6UvCq74HFcVRnU1Q6s sEDMnKQuE4yiY1GnEtMIXRBhRwIwD95HbZJt0zLqRawP887wsohYgmpIJXfY/aNOJd2Ghd1fhzyRZKg3SIhB+FPxSv0uC8xAyO5s a2+ei0Z0jMqEPwT3vw == |00001000000505142236||
+
+Barcode
+
+Este documento es una representación impresa de un CFDI *Efectos fiscales al pago FORMA DE PAGO: 03 - Transferencia electrónica de fondos METODO DE PAGO: PUE - Pago en una sola exhibición Uso CFDI: G01 - Adquisición de mercancias
+
+Folio fiscal: 9651111D-3DED-497E-8F33-82BE608A0D4B
+
+No de Serie del Certificado del SAT: 00001000000505142236
+
+Fecha y hora de certificación: Julio 12 2021 - 12:27:57

@@ -1,0 +1,69 @@
+SOCIEDAD COOPERATIVA DE PRODUCCION PESQUERA PUNTA ABREOJOS
+
+Image With Text:
+i
+
+RFC: PPP7612316W1 Domicilio Conocido S/n Punta Abreojos Mulegé, Baja California Sur, México 622 - Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras
+
+FACTURA E 3548 Fecha/Hora Cer tificacion:
+
+26/May/2025 12:44:17
+
+Receptor Cliente: COMERCIALIZADORA HEALTHY FISH RFC: CHF150630DT5
+
+Uso CFDI: G01 - Adquisición de mercancias
+
+Moneda: MXN - Peso Mexicano Tipo de cambio: 1.000000
+
+Lugar de expedición (C.P.): 23970 Régimen Fiscal: 601 - General de Ley Personas Morales
+
+Forma de Pago: 99 - Por definir
+
+Método de Pago: PPD - Pago en parcialidades o diferido Domicilio: Amsterdam 26-D, Ciudad de México, Ciudad de México, 06100
+
+Información de cancelación
+
+Motivo de cancelación: Folio relacionado:
+
+|   Cantidad | Unidad   | Clave Unidad SAT   |   Clave Prod/Servicio | Descripción                   | Valor unitario   |   Impuestos | Importe     |
+|-----------:|:---------|:-------------------|----------------------:|:------------------------------|:-----------------|------------:|:------------|
+|     638.63 | KILOS    | KGM - Kilogramo    |              50121539 | Filete de Verdillo Desangrado | $186.00          |           0 | $118,785.18 |
+|            |          |                    |                       | empacado al alto vacío        |                  |             |             |
+
+ESTA FACTURA SE DERIVA DE LA GUIA DE PESCA No. 03250005040 DEL 26/05/2025 A.A. # BE2025061958, BE2025063424, BE2025064793.
+
+CDFI Relacionados Lista de CFDI's relacionados:
+
+Tipo de relación:
+
+Total con letra: ciento dieciocho mil setecientos ochenta y cinco Pesos 18/100 M.N.
+
+|:-----------------|:------------|
+| Subtotal:        | $118,785.18 |
+| I.V.A:           | $0.00       |
+| Retencion I.S.R: | $0.00       |
+| Total:           | $118,785.18 |
+
+Barcode
+
+Este documento es una representación impresa de un CFDI
+
+Serie del Certificado del emisor: 00001000000507648067 Folio Fiscal: 26117486-DB97-46A3-8B2A-87C343FC2C65
+
+No. de serie del Certificado del SAT: 00001000000709182898 Fecha y hora de certificación: 2025-05-26T13:44:22
+
+Sello digital del CFDI
+
+Qvim4ysCgLga9g5o3dsFSMbSgE6x7CNUtCHPhFzwWAcxYx3G0XIMHWO8v/UFuHipBqVW/445tgFsLbSkgs/jgyRyXoy1FiUArX3/rWWGBr9V/tRx5crcckNs3+eEYvWBmYB7mWhDue nLhY0q/Ro1Yet825RjNdFZ5yn9|Ad8w3mf9aoq3IWOatuJj29ZqAi5yJTnrOIEkTWnoEeP1c7VG9km2xlADYLQHt5kXWqGbb47GmaAp8NNq7fJfCmhu124VLsXw26yxvcA3LolTt7F OkIGs/6HgGkwmTlhav1ZYsAwqKZY4du0bbTH1aGV9GHZyWuzHxL3+Qjx+oUvJErrw ==
+
+Sello del SAT
+
+RFzx97leRvU7bY0OQJZ3vUVzQ28Bomp+YpwIjZQgmrKTiGEhqg1byBFIefzIsch+rX0HfCVjWF8IOAUOCu96D4oIJ/q4tba3q/ZSJGA8bpcM9hJ8d9pMSvQeeKjF3wu1x/pWSp3kki0s 7HpnZ5w1CSXG2p0LpyLyTFG+vQR7JLoMRfRfJfGfRBrzayuUs2SFUMm66EqShJgsoez7cOh0iC2r+xIEDAjOVbvRJ84ybXVugGYO4RslJ+soYITCQ5g6mCnGSvH//zb15HWURz1HB+jm fkSnpmzl4eLoO23tjJCE+$2vM7LMP6cwRo5Ka7zmqrApa2g6LnY1olKTkl2ncg ==
+
+Cadena original del complemento del certificación digital del SAT
+
+||1.1|26117486-DB97-46A3-8B2A-87C343FC2C65|2025-05-26T13:44:22|MAS0810247C0|Qvim4ysCgLga9g5o3dsFSMbSgE6x7CNUtCHPhFzwWAcxYx3G0XIMHWO8v/UFuH ipBqVW/445tgFsLbSkgs/jgyRyXoy1FiUArX3/rWWGBr9V/tRx5crcckNs3+eEYvWBmYB7mWhDuenLhY0q/Ro1Yet825RjNdFZ5yn9IAd8w3mf9aoq3IWOatuJj29ZqAi5yJTnrOIE kTWnoEeP1c7VG9km2xlADYLQHt5kXWqGbb47GmaAp8NNq7fJfCmhu124VLsXw26yxvcA3LolTt7FOKIGs/6HgGkwmTlhav1ZYsAwqKZY4du0bbTH1aGV9GHfZyWuzHxL3+Qjx+OUvJ Errw == | 00001000000709182898 | |
+
+Versión del c omprobante: 4.0
+
+Hoja 1

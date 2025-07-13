@@ -1,0 +1,82 @@
+Folio Fiscal
+
+42edac56-a8bd-4ac9-a24a-2977112d87a0
+
+Serie: A
+
+Folio: 10
+
+Número de Certificado del Emisor
+
+00001000000505474414
+
+Lugar y Fecha de Emisión 63440 , 2021-12-17T16:44:15
+
+SOCIEDAD COOPERATIVA DE PRODUCCION PESQUERA Y ACUICOLA IGNLOGAR SC DE RL DE CV PPA900903PZ9 Rég. Fiscal: 622 - Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras
+
+I - Ingreso
+
+Lugar y Fecha de certificación Ciudad de México, 2021-12-17T17:44:16
+
+Proveedor de Certificación de CFDI AURORIAN S.A. DE C.V. www.konesh.com.mx Número Certificado del SAT: 00001000000505750848
+
+| RFC del Cliente   | Uso CFDI             |
+|:------------------|:---------------------|
+| CHF150630DT5      | G01 - Adquisición de |
+|                   | mercancias           |
+
+Nombre del Cliente
+
+COMERCIALIZADORA HEALTHY FISH S.A.P.I. DE C.V
+
+CFDI Relacionado
+
+| Residencia Fiscal   | NumRegIdTrib   |
+|:--------------------|:---------------|
+|                     |                |
+
+|    Clave | No. Ident.   |   Cantidad | C. Unidad   | Unidad    | Descripción                    | V. Unitario   | Importe     | Descuento   |
+|---------:|:-------------|-----------:|:------------|:----------|:-------------------------------|:--------------|:------------|:------------|
+| 50121539 | FILETESP00 1 |         50 | KGM         | KILOGRAMO | FILETE DE ROBALO S/ PIEL       | $368.00       | $ 18,400.00 |             |
+|          |              |            |             |           | Impuesto Traslado Base: $      |               |             |             |
+|          |              |            |             |           | 18400.00 Impuesto:002 Tipo     |               |             |             |
+|          |              |            |             |           | Factor: Tasa Tasa o            |               |             |             |
+|          |              |            |             |           | Cuota:0.000000 Importe: $ 0.00 |               |             |             |
+| 50121539 | FILETECP00 2 |         50 | KGM         | KILOGRAMO | FILETE DE ROBALO C/ PIEL       | $264.00       | $ 13,200.00 |             |
+
+Impuesto Traslado Base: $ 13200.00 Impuesto:002 Tipo Factor: Tasa Tasa o Cuota:0.000000 Importe: $ 0.00
+
+AVISOS DE ARRIVO BE2021152318,BE2021152342,BE2021152352
+
+IMPORTE EN LETRAS
+
+TREINTA Y UN MIL SEISCIENTOS PESOS 00/100 MXN
+
+SELLO DIGITAL DEL EMISOR
+
+wc4hXbXre+avBsiGIQssxl0fyEM+zOxAfcBQGGztTPlPlLsCB7knz012Di1XGke3khpUO1+4E2RzZ54QAbr28gSkgItPtiXiux4ZDG4ghTja8Yfw/i6DqDbOHgwk0CKLuttibY+IEnHSbN8XRlpFHA RfKwCQ3JEh/6bfy/8/HcwEfG/wrRhZO0vKE49OyTst2qVDYXCy/QQ6fCIT4rCDAYPRgqvCWbu+D/nKy/31CYNr983B3ZKruXH7OxsmZAyw4Enum7+700E/YWIRafYsnK6lolfys6Y3fEYcyrw7NuZU BNHFHoBcaaUwLo/sS6soE9KCFUOOLQI0BBhJErg9hw ==
+
+SELLO DIGITAL DEL SAT
+
+uG6vRA2pKuAo6fgp/oTA9l7U5xmNyFhNItLVHGdG5vSWmLL+OdtHETba+kXMA5qZLAm52WQ5zFjPcWeaulveVUZUazGJ5FwjlWHwUvJNeAESnGYLn4ts1ufbguEvRebXksNpiQpPvhxAhGwt65pEnn U/z9k7EvhCL4nICZGHnzWitU3LHMJnDXxYtnlPgG7PMjSqr/d+6Q3tVRBurPHbuZn9+zvQfDg71ZEGRFCBvLmYq4Kj0OKFqKMdK9eMy3drVVtFqdNQL2ar79ctalwUnLkc0SRdMyCs4Vx1BEkPYcaA G4WeRo0eYgl25lsO4xE7zCQ56Ad4VbJaeRMe6HP09A ==
+
+CADENA ORIGINAL DEL COMPLEMENTO DE CERTIFICACION DIGITAL DEL SAT
+
+|1.1|42edac56-a8bd-4ac9-a24a-2977112d87a0|2021-12-17T17:44:16|AUR100128NN3|wc4hXbXre+avBsiGIQssxl0fyEM+zOxAfcBQGGztTPIPILsCB7knz012Di1XGke3khpUO1+4E2 RzZ54QAbr28gSkgltPtiXiux4ZDG4ghTja8Yfw/i6DqDbOHgwk0CKLuttibY+IEnHSbN8XRlpFHARfKwCQ3JEh/6bfy/8/HcwEfG/wrRhZO0vKE49OyTst2qVDYXCy/QQ6fCIT4rCDAYPRgqvCWbu+ D/nKy/31CYNr983B3ZKruXH7OxsmZAyw4Enum7+700E/YWIRafYsnK6lolfys6Y3fEYcyrw7NuZUBNHFHoBcaaUwLo/sS6soE9KCFUOOLQI0BBhJErg9hw == |00001000000505750848||
+
+Barcode
+
+CFDI Versión: 3.3 Moneda: MXN
+
+Forma de Pago: 03 - Transferencia electrónica de fondos Método de Pago: PUE - Pago en una sola exhibición Condiciones de Pago: CONTADO
+
+|:-------------------------------|:------------|
+| SUB-TOTAL                      | $ 31,600.00 |
+| Total de Impuestos Trasladados | $ 0.00      |
+| Total de Impuestos Retenidos   | $ 0.00      |
+| 002 0.000000 %                 | $ .00       |
+| TOTAL                          | $ 31,600.00 |
+
+Este documento es una representación impresa de un CFDI
+
+Página 1 de 1

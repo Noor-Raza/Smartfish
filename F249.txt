@@ -1,0 +1,81 @@
+Image With Text:
+Smart FishAC Rescate de valor de la pesca responsable
+
+SMARTFISH RESCATE DE VALOR SRV130629SU6
+
+Manuel Marquez de León No. 2395 COL. Zona Central, La Paz Baja California Sur, México, C.P. 23000 603 - Personas Morales con Fines no Lucrativos
+
+FACTURA
+
+|:---------|:----------------------------|
+| FECHA    | Abril 29 2024 - 11:38:34    |
+| FOLIO    | 249                         |
+| EXPEDIDO | La Paz, Baja California Sur |
+
+|:----------|:------------------------------|
+| CLIENTE   | COMERCIALIZADORA HEALTHY FISH |
+|           | 601 General de Ley Personas   |
+|           | Morales                       |
+| DOMICILIO | AMSTERDAM No. 26-D HIPODROMO  |
+|           | 06100                         |
+| LOCALIDAD | CUAUHTEMOC CUAUHTEMOC, CIUDAD |
+|           | DE MEXICO México              |
+
+R.F.C.
+
+CHF150630DT5
+
+|:-----------------|:---------------------------|:-------|:----------|
+| 117.000 KGM KILO | 50121500 - Filete de jurel | 304.50 | 35,626.50 |
+|                  | porcionado al vacío y      |        |           |
+|                  | congeladc                  |        |           |
+
+CANTIDAD CON LETRA: TREINTA Y CINCO MIL SEISCIENTOS VEINTISEIS PESOS 50/100 MXN Peso Mexicano
+
+METODO DE PAGO: PPD - Pago en parcialidades o diferido FORMA: 99 - Por definir No. CUENTA:
+
+USO CFDI: G01 - Adquisición de mercancías.
+
+|:---------|:----------|
+| SUBTOTAL | 35,626.50 |
+| I.V.A.   | 0.00      |
+| TOTAL    | 35,626.50 |
+
+Barcode
+
+SELLO DIGITAL DEL CFDI
+
+FOLIO FISCAL: 5196FDA0-78D5-477B-AD57-F74D4E3E2A21
+
+S7RZi4J7XbfgKC7ft3kgQmBfIBcmWT1rQvMG3x6NZTQNB1Gknb0ARIND5IqjLIbpBJw4iP23TeKxbUbixb1Gal9DnlS59T5Cjp00 MGOxEkC5N//hQBlp4DENloGvkyRG87Mv70ubFs2FpsXwGROPkJok4ssHEWAHYwHbd7EWKoVYmgq4ltZVV7kKYbHgPHU/RV7/6JD1 SVcUVODcV9Mlwpb7ws8n0b9stUgaQWYaN68acCwqm/5Spg8ErZqsl87XxRTfA7Ra0ylz2PHzf20JRoactHTnGQV8xU9sq28fcs0 vgs/kq9+uvb4RZ0+ZRiUvZaNE9Gf6C112HurMYkpCw ==
+
+SELLO DEL SAT
+
+NS CERTIFICADO DEL SAT: 00001000000505142236
+
+krvHlw1urRBaLcVTKpgtEfP2fCkZOvCp+VZsEUuvSc+XoJWpaxZCMnCDGSkpEOyKKTEGaWAUxm/zm7IjTOFMR6D6FVcgaSRL1v2( WadDR6GeoV8JwU8LIHTpht48E7RPDAoCowiMFKGmIKfJ4yhKiSBwsybo5KoiTYn+hjHp6zR512aXa3Xr2R51PA92/9wILnX8zVvL RGLkqcAsd/b/Od/futiNDBjBm5+FbvVSGkllh72cFy2wJ56Ab7TQ1QfU+oOatLV4v3Hmon4fRgPR9kRmVGPsJB8xy4rfc5JCZrFE e5FJjBZ98UXiDj5/jr7SYAcLFJ9AaeRa967dyAtJUw ==
+
+COMPLEMENTO DE CERTIFICADO DIGITAL DEL SAT
+
+FECHA DE CERTIFICACION: Abril 30 2024 - 12:33:37
+
+||1.1|5196FDA0-78D5-477B-AD57-F74D4E3E2A21|2024-04-30T12:33:37|MAS0810247C0|S7RZi4J7XbfgKC7ft3kgQmBf IBcmWT1rQvMG3x6NZTQNB1Gknb0ARIND5lqjLIbpBJw4iP23TeKxbUbixb1Gal9DnIS59T5Cjp00MGOxEkC5N//hQBIp4DENIoGv kyRG87Mv70ubFs2FpsXwGROPkJok4ssHEWAHYwHbd7EWKoVYmgq4ltZVV7kKYbHgPHU/RV7/6JDTSVcUVODcV9MIwpb7ws8n0b9: tUgaQWYaN68acCwqm/5Spg8ErZqsl87XxRTfA7Ra0ylz2PHzf20JRoactHTnGQV8xU9sq28fcs0ivgs/kq9+uvb4RZ0+ZRiUvZa E9Gf6C112HurMYkpCw == |00001000000505142236||
+
+603 - Personas Morales con Fines no Lucrativos
+
+NS CERTIFICADO DEL EMISOR: 00001000000508166127
+
+ESTE DOCUMENTO ES UNA REPRESENTACION IMPRESA DE UN CFDI. 4.0
+
+"2 121 21/2
+
+www.smartfish.mx
+
+Contacto e informacion 612 . 129 . 5550
+
+Image With Text:
+Informacion contacto@smartfish.mx
+
+REPRODUCCIi¿ 1/2N APÏ¿1/2CRIFA DE ESTE COMPROBANTE CONSTITUYE UN DELITO EN LOS Ti¿ 1/2RMINOS DE LAS DISPOSICIONES FISCALES.
+
+Image

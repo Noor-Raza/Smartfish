@@ -1,0 +1,77 @@
+BUZOS Y PESCADORES DE LA BAJA CALIFORNIA
+
+RFC: BPB420620K25
+
+Tipo de Comprobante: I - Ingreso
+
+Lugar de Expedición: 23951 Régimen Fiscal: 622 - Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras
+
+|:---------------|:------------------------------|
+| Forma de pago  | 99 - Por definir              |
+| Método de pago | PPD - Pago en parcialidades o |
+|                | diferido                      |
+| Moneda:        | MXN - Peso Mexicano           |
+
+|:------|:-------------------|
+| Folio | A - 4379           |
+| Fecha | 2/12/2024 12:57:16 |
+
+Datos del cliente
+
+Cliente:
+
+COMERCIALIZADORA HEALTHY FISH
+
+R.F.C .:
+
+CHF150630DT5
+
+Uso CFDI: G01 - Adquisición de mercancías.
+
+Domicilio:
+
+AMSTERDAM No. 26 No. Int D, Hipódromo, C.P. 06100, Ciudad de México, Ciudad de México, México
+
+| Cantidad   | Unidad   | Clave Unidad SAT   | Clave Producto/Servicio      | Concepto / Descripción         | Valor Unitario   | Descuentos   | Impuestos        | Importe    |
+|:-----------|:---------|:-------------------|:-----------------------------|:-------------------------------|:-----------------|:-------------|:-----------------|:-----------|
+|            |          |                    |                              | FILETE DE PESCADO              |                  |              |                  |            |
+| 1,120.00   | KILOS    | KGM - Kilogramo    | 50121537 - Pescado congelado | BLANCO EMPACADO AL VACIO       | 185.000          | 0.00         | 002 - IVA - 0.00 | 207,200.00 |
+|            |          |                    |                              | SUSTENTABLE. FILETE            |                  |              |                  |            |
+| 180.00     | KILOS    | KGM - Kilogramo    | 50121537 - Pescado congelado | CONGELADO DE PESCADO BLANCO DE | 175.000          | 0.00         | 002 - IVA - 0.00 | 31,500.00  |
+
+Observaciones: N/11779
+
+PRODUCTO AMPARADO CON AVISO DE ARRIBO FOLIO No.BE2024165364 DEL 25 DE NOVIEMBRE DEL 2024.
+
+Importe con letra: DOSCIENTOS TREINTA Y OCHO MIL SETECIENTOS PESOS 00/100 M.N.
+
+|:----------------------|:-----------|
+| Subtotal              | 238,700.00 |
+| Impuestos Trasladados | 0.00       |
+| Total                 | 238,700.00 |
+
+PRODUCTO CAPTURADO BAJO CONCESIÓN No. CP-005/2011
+
+Barcode
+
+Serie del Certificado del emisor 00001000000710728584 Folio fiscal 12486F49-1D7D-46FF-879B-0A21A7E1A261 No. de Serie del Certificado del SAT Fecha y hora de certificación 00001000000709182898 Diciembre 2 2024 - 13:57:18
+
+Este documento es una representación impresa de un CFDI
+
+CFDI Relacionado: Tipo Relación: - CFDI Relacionado:
+
+Sello Digital del CFDi
+
+Buhr6g3KXbv0f+fivNUCzeKSAUnyHqvhqf0zkoOMZGMhNN7qJwgVogxK1GWUTXanIS2dsXKJHGC3IlZLD9DaAD rasBaYCFBjwNMWAqiDAtyNz4mHmagUgJ7cV81hSeCVsWaufv4Y/79wvgtBKTv+edBc5OLrqpyt9jfhgGYXdMcE u44Xbn5LpILUXVHVv2hC5lwjad+2IlWJfL5HT1EAMM381qkeS4SBmT8h1KKr78xPo/1WUaX4TJ5b+fbMOHxt3o BxGnJcJitBXfJlSlRL0OrGQlefhKobPpEpbV3FqzeQ2ZVHnx0f44FJfNv/jPBjVI23sbCazLlGK+v/Gphd4Q==
+
+Sello del SAT
+
+JHl9cHOkmZ6svILF6xfh4KLVvxq0R8dLJjc11eowhdsORAIXKuVNc/fx0208HoHdE+c5jVDfV+sc9fZ5 eOpOQ4y8onJiGlNSVk59rRbHnDlXekvDJ+B+oHy+CpIOVXOlOaP9EG5cHHjEYj9uMRw1GivBLM5mPMcj i56uTP0vTGxDobrB22mTrUElMPI5uU7lBV6QhmDIsa7PxPzPEM+g50HxKGG0QzZdmKomG9oVNL+5uMyl r+H5cGKfApeRKh0FIL685EchWyNyWxHtbF9mBx1TglaR+MdAkwQEyWoLos/3sH/nuapPXwCGRrjC+66W xcNeV0/EaeOw4+J5sildrQ==
+
+Cadena original del complemento de certificación digital del SAT
+
+| |1.1 | 12486F49-1D7D-46FF-879B-0A21A7E1A261|2024-12-02T13:57:18 |MAS0810247C0|Buhr 6g3KXbv0f+fivNUCzeKSAUnyHqvhqf0zkoOMZGMhNN7qJwgVogxK1GWUTXanIS2dsXKJHGC3IlZLD9Da ADrasBaYCFBjwNMWAqiDAtyNz4mHmagUgJ7cV81hSeCVsWaufv4Y/79wvgtBKTv+edBc5OLrqpyt9jfh gGYXdMcEu44Xbn5LpILUXVHVv2hC5lwjad+2IlWJfL5HT1EAMM381qkeS4SBmT8h1KKr78xPo/1WUaX4 TJ5b+fbMOHxt3oBxGnJcJitBXfJlSlRL0OrGQlefhKobPpEpbV3FqzeQ2ZVHnx0f44FJfNv/jPBjVI23 sbCazLlGK+v/Gphd4Q==|00001000000709182898||
+
+SEGUNDA.
+
+Image

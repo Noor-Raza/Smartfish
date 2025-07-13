@@ -1,0 +1,76 @@
+|:----------------------------|:------------------------------|
+| RFC emisor:                 | PPV9508174Z9                  |
+| Nombre emisor:              | SOCIEDAD COOPERATIVA DE       |
+|                             | PRODUCCION PESQUERA 29 DE     |
+|                             | AGOSTO                        |
+| Folio:                      | 645                           |
+| RFC receptor:               | SRV130629SU6                  |
+| Nombre receptor:            | SMARTFISH RESCATE DE VALOR    |
+| Código postal del receptor: | 23000                         |
+| Régimen fiscal receptor:    | Personas Morales con Fines no |
+|                             | Lucrativos                    |
+| Uso CFDI:                   | Gastos en general.            |
+
+| Folio fiscal: No. de serie del   | 7CCC00F7-7EC6-4E5C-8135-   |
+| CSD:                             | 3044C03D6C9D               |
+|                                  | 00001000000512651420       |
+|:---------------------------------|:---------------------------|
+| Serie:                           | A                          |
+| Código postal, fecha y hora de   | 85400 2024-04-02 10:54:43  |
+| emisión:                         |                            |
+| Efecto de comprobante:           | Ingreso                    |
+| Régimen fiscal:                  | Actividades Agrícolas,     |
+|                                  | Ganaderas, Silvícolas y    |
+|                                  | Pesqueras                  |
+| Exportación:                     | No aplica                  |
+
+Conceptos
+
+|   Clave del producto y/o | No. identificación   |   Cantidad | Clave de unidad   | Unidad     |   Valor unitario | Importe   | Descuento   | Objeto impuesto        |
+|                 servicio |                      |            |                   |            |                  |           |             |                        |
+|-------------------------:|:---------------------|-----------:|:------------------|:-----------|-----------------:|:----------|:------------|:-----------------------|
+|                 50121500 |                      |        117 | E4                | Kilo bruto |              290 | 33,930.00 |             | No objeto de impuesto. |
+
+Descripción
+
+Filete de jurel porcionado empacado al vacío y congelado. Aviso de arribo #BE2024045410.
+
+| Número de pedimento   | Número de cuenta predial   |
+|:----------------------|:---------------------------|
+|                       |                            |
+
+| Moneda:         | Peso Mexicano                | Subtotal   |
+|:----------------|:-----------------------------|:-----------|
+| Forma de pago:  | Transferencia electrónica de | Total      |
+|                 | fondos (incluye SPEI)        |            |
+| Método de pago: | Pago en una sola exhibición  |            |
+
+$ 33,930.00
+
+$ 33,930.00
+
+Sello digital del CFDI:
+
+QEWU0z68T/VEsEK9ZeKegkfuTCO1XdfqjS4qs9aZZISW8QhQUJAOLIYWEexoFp1oLa0w70Ytp9M07ExF5+KRYCJcXGBMIH1JmlYbdDmpfbioOlpKfzCQBiWh783CqiallY8x6JIhH4ODvHnl 2NZQFgrlhDq/np82s1WN1RovIB2p/eElJ+kdwZapugdrXB0BqWYTjcd1I410x4XYm/PgGEJOgsegvJxR4L3DR1DPZXBof6V9Q6G/1dJd9mg9sKndO4f28VYgcBouJuPKjhz9CFVb77+yhLDYd r/uKXU/Ve61DQ+kQqx44mWyMtoiBcwsNoZynIMC/4umjK8d0NXITQ==
+
+Sello digital del SAT:
+
+Yuk11sx/OlJhQ+rvuELBPA/UqKgxRoQfRNABIO/F3rxSmpNqVHwoEJeGcVGfkdXRR4DAQy67ImNDYPYp6xx9U80Eb1pYBs+Nu+S1FMCcZiLM860isYV1LOGIYIV+uk+/j11X04ngK3y7oxnD WW/DXYmyf6yZsJs/DA+qoGNRKlavHGQXZtSMX4SPjc/CKZ/5vhd/NBPVCBk+zlEpFb21mJ+CSJdd1BKvHg/09Jg70e9IPEKEMFdLImsytiyOn/MLLUiQ16zKyK85pUntPd/xjkcTQLpb9JURQg nvuzZGjOHbtU4dpYlXuNowictSwBa32lX9K7m3uvKu4DEXLC3PVQ==
+
+Barcode
+
+Cadena Original del complemento de certificación digital del SAT:
+
+|1.1|7CCC00F7-7EC6-4E5C-8135-3044C03D6C9D|2024-04-02T10:55:03|SAT970701NN3|QEWU0z68T/VEsEK9ZeKegkfuTCO1XdfqjS4qs9aZZISW8Qh QUJAOLIYWEexoFp1oLa0w70Ytp9M07ExF5+KRYCJcXGBMIH1JmlYbdDmpfbioOlpKfzCQBiWh783CqiallY8x6JIhH4ODvHnl2NZQFgrlhDq/np82s1WN1R ovIB2p/eElJ+kdwZapugdrXB0BqWYTjcd1I410x4XYm/PgGEJOgsegvJxR4L3DR1DPZXBof6V9Q6G/1dJd9mg9sKndO4f28VYgcBouJuPKjhz9CFVb77+yh LDYdr/uKXU/Ve61DQ+kQqx44mWyMtoiBcwsNoZynIMC/4umjK8d0NXITQ==|00001000000504465028||
+
+RFC del proveedor de certificación:
+
+SAT970701NN3
+
+Fecha y hora de certificación: 2024-04-02 10:55:03
+
+No. de serie del certificado SAT 00001000000504465028
+
+Este documento es una representación impresa de un CFDI
+
+Página 1 de 1

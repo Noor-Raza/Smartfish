@@ -1,0 +1,86 @@
+Image With Text:
+IR
+Este documento es una Representación impresa de un CFDI
+
+Sociedad Cooperativa de Producción Pesquera Ribereña "LEYES DE REFORMA, S.C. DE R.L."
+
+Registro No. 2788-P * RFC: PPR-950307-E56
+
+DOMICILIO FISCAL: Av. Benito Juárez No. 217 Poniente Bahía Asunción, Baja California Sur Tel: (615) 160-0030, 160-0045
+
+OFICINAS ADMINISTRATIVAS:
+
+Av. Espinoza No. 778, Col. Obrera Ensenada, Baja California Tel: (646) 177-1361, 177-1365
+
+OFICINAS ADMINISTRATIVAS: Av. Hidalgo No. 520-1 La Paz, Baja California Sur Tel/Fax: (612) 122-0587
+
+Bajo control de Fed. Reg. de Socs. Coops. de la Ind. Pesquera "Baja California", F.C.L.
+
+|:---------------------|:------------------------------|:---------------------|:---------------|
+| Lugar de Expedicion: | 23960                         | Serie y Folio:       | A-5542         |
+| Fecha de Expedicion: | 2024-11-01T17:19:17           | Tipo de Comprobante: | I-Ingreso      |
+| Uso CFDI:            | G01-Adquisición de mercancias | Version CFDI :       | 4.0            |
+| Metodo de Pago:      | PPD-Pago en parcialidades o   | Forma de Pago:       | 99-Por definir |
+|                      | diferido                      |                      |                |
+| Regimen Fiscal:      | 622-PERSONA MORAL DEL REGIMEN |                      |                |
+|                      | DE ACTIVIDADES AGRICOLAS,     |                      |                |
+|                      | GANADERAS, SILVICOLAS Y       |                      |                |
+|                      | PESQUERAS                     |                      |                |
+
+|                          | DATOS DEL RECEPTOR   |                             |
+|:-------------------------|:---------------------|:----------------------------|
+| RFC: CHF150630DT5        | Cve: 534             | Nombre: COMERCIALIZADORA    |
+|                          |                      | HEALTHY FISH                |
+| Domicilio Fiscal: 06100  | Regimen Fiscal:      | 601-General de Ley Personas |
+|                          |                      | Morales, Exportacion: 01-No |
+|                          |                      | Aplica                      |
+| CALLE AMSTERDAM, COLONIA | No. 26-D, CDMX ,     | DIF, MEXICO                 |
+| HIPODROMO,               |                      |                             |
+
+| Cantidad   | Unidad de Medida   | ID Articulo   | DESCRIPCION DEL ARTICULO       | Cve. Prod. Serv. SAT   | Objeto Im- puesto: 02   | Precio Unitario   | IMPORTE    |
+|:-----------|:-------------------|:--------------|:-------------------------------|:-----------------------|:------------------------|:------------------|:-----------|
+| 34.6       | KGM-KILOGRAMO      | 306-20        | PESCADO BLANCO AL ALTO VACIO   | 50121500               | .00                     | 175.00            | 6,055.00   |
+|            |                    |               | EN TROZO                       |                        |                         |                   |            |
+| 613.4      | KGM-KILOGRAMO      | 306-15        | PESCADO FILETE BLANCO AL VACIO | 50121500               | .00                     | 185.00            | 113,479.00 |
+|            |                    |               | PRODUCTO QUE SE DERIVA DEL     |                        |                         |                   |            |
+|            |                    |               | AVISO DE ARRIBO CON FOLIO      |                        |                         |                   |            |
+|            |                    |               | BE2024133035 DE FECHA          |                        |                         |                   |            |
+|            |                    |               | 27-09-2024 Y BE2024146100 DE   |                        |                         |                   |            |
+|            |                    |               | FECHA 22-10- 2024              |                        |                         |                   |            |
+
+|    | Subtotal   | 119,534.00   |
+|:---|:-----------|:-------------|
+| 0% | IVA        | 0.00         |
+|    | Total      | 119,534.00   |
+
+REGISTRO NACIONAL DE IMPORTADORES Y EXPORTADORES No. R.F.C. PPR-950307-E56 PRODUCTO CAPTURADO BAJO CONCESION No. CP-007/2012
+
+IMPORTE CON LETRA: CIENTO DIECINUEVE MIL QUINIENTOS TREINTA Y CUATRO PESOS CON 00/100 M.N.
+
+Barcode
+
+UUID - Folio Fiscal: 760F24E3-3556-4D7F-BEB7-E74AC48B895D
+
+Sello Digital del CFDI:
+
+No. Serie del Certificado Emisor: 00001000000711092806
+
+CwMfXzSMATqblUx5HqAgl5ROKsIPhN7J3VNfG2dQ1z1YIGe2N6Eo/ScAj86VPkPuJ6MMxqleSVM9/T7emFneyh2yWDfw7psz2YadErj8RT+x5426jPN+m+IK2OuOQJKhVwIJ70B2xt8XpGgFXoe +GRvX+wzTHDKH9CEBSPRciR/ZtEE4FbfAzAq8pSok3/eHEnJndqKAsNrZx94V/ZLZck1eK2SLSS/CiMsDRI27nKMxoWc41zH9OrcRVekZx5XsqXYogel02oiNjQgCiwZmtY4sHsuzH7swa+Xwm5r N/HTnHLVPGqeBnkVQlwIPfMRSwAY6rMC90uwS0gC9a7UldQ ==
+
+Sello Digital del SAT:
+
+No. Serie del Certificado del SAT: 00001000000705928441
+
+qxH7L9NbSYE1bml1u9Ei+KpPmMjy0ffERECPM3uc/CPgfssMpRd8EznogSLOo10qfw81005TtUrlgrocm+HHy4byYJ95MUrl82fZeKh47fWH22rfxalQnSvRo4wyDbtsMsFEk3tSjyfYB/MRfb1DQM Ba3Qh3ba2BYAV7WNZA9hVRs0SZxJsTUh09+m72rUTrNLsT6xyXbKKUnzcrMg130RLVPf2vBJRmJRuTkLj79s8R1PJs6zUOFOu8yN6QkFjMMW5QOT9jNyRse1RlxUbKcmU3pL7Bj2Gv3R7xfP E4daFTX594XnP3H5IFLtJUofV7Dj1737Md6FIZ5y4g+Novg=
+
+Cadena original del complemento de certificacion digital del SAT:
+
+||1.1|760F24E3-3556-4D7F-BEB7-E74AC48B895D|2024-11- 01T18:19:20|CwMfXzSMATqblUx5HqAgl5ROKsIPhN7J3VNfG2dQ1z1YIGe2N6Eo/ScAj86VPkPuJ6MMxqleSVM9/T7emFneyh2yWDfw7psz2YadErj8RT+x5426jPN+m+IK2OuOQJKhVwIJ70B2xt 8XpGgFXoe+GRvX+wzTHDKH9CEBSPRciR/ZtEE4FbfAzAq8pSok3/HEnJndqKAsNrZx94V/ZLZck1eK2SLSS/CiMsDRI27nKMxoWc41zH9OrcRVekZx5XsqXYoge102oiNjQgCiwZmtY4sHsuzH7 swa+Xwm5rN/HTnHLVPGqeBnkVQlwPfMRSwAY6rMC90uwS0gC9a7UldQ == |00001000000705928441|
+
+Fecha y Hora de Emicion: 2024-11-01T17:19:17
+
+Fecha y Hora de Certificacion: 2024-11-01T18:19:20
+
+PAGARE 002-MULEGE, BCS-BAJA CALIFORNIA SUR a 01/11/2024 BUENO POR: $119,534.00 PESOS MXN POR ESTE PAGARE DEBO(EMOS) Y PAGARE(MOS) INCONDICIONALMENTE A LA ORDEN DE: SOCIEDAD COOPERATIVA DE PRODUCCION PESQUERA RIBEREÑA LEYES DE REFORMA, UBICADO EN: AVE. BENITO JUAREZ NO.217 PONIENTE, 0421-BAHIA ASUNCION, B.C.S .. 002-MULEGE, BCS-BAJA CALIFORNIA SUR C.P. 23960 LA CANTIDAD DE: $119,534.00 CIENTO DIECINUEVE MIL QUINIENTOS TREINTA Y CUATRO PESOS CON 00/100 M.N., CANTIDAD QUE SERA PAGADA A MAS TARDAR EL DIA 16/11/2024 CORRESPONDIENTE AL VALOR DE LA MERCANCIA DESCRITA EN FACTURA: A*5542, MISMA QUE FUE RECIBIDA A NUESTRA ENTERA SATISFACCION. ENTENDIENDO QUE AL NO PAGARSE A TIEMPO, SERA EXIGIBLE DESDE LA FECHA DE VENCIMIENTO DE ESTE DOCUMENTO HASTA EL DIA DE SU LIQUIDACION, CAUSANDO INTERESES MORATORIOS AL TIPO DE % MENSUAL, PAGADERO EN ESTA CIUDAD JUNTAMENTE CON EL PRINCIPAL.
+
+Acepto(amos) NOMBRE y FIRMA(S): COMERCIALIZADORA HEALTHY FISH, CALLE AMSTERDAM, COLONIA HIPODROMO, No. 26-D, CDMX , DIF, MEXICO

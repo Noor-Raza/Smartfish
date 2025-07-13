@@ -1,0 +1,98 @@
+|:-------------------------|:------------------------------|
+| RFC emisor:              | PPP0101307X6                  |
+| Nombre emisor:           | SOCIEDAD COOPERATIVA DE       |
+|                          | PRODUCCION PESQUERA PUNTA     |
+|                          | SACRIFICIO                    |
+| RFC receptor:            | CHF150630DT5                  |
+| Nombre receptor:         | COMERCIALIZADORA HEALTHY FISH |
+| Código postal del        | 06100                         |
+| receptor:                |                               |
+| Régimen fiscal receptor: | General de Ley Personas       |
+|                          | Morales                       |
+| Uso CFDI:                | Adquisición de mercancías.    |
+
+Folio fiscal:
+
+No. de serie del CSD:
+
+Código postal, fecha y hora de
+
+emisión:
+
+Efecto de comprobante:
+
+Régimen fiscal:
+
+Exportación:
+
+658606A1-0861-4B51-964D-50DEFB516C13
+
+00001000000703928629
+
+70902 2024-09-24 13:12:43
+
+Ingreso Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras No aplica
+
+Conceptos
+
+| Clave del producto y/o   | No. identificación           | Cantidad   | Clave de unidad   | Unidad    | Valor unitario   | Importe   | Descuento   | Objeto impuesto        |
+| servicio                 |                              |            |                   |           |                  |           |             |                        |
+|:-------------------------|:-----------------------------|:-----------|:------------------|:----------|:-----------------|:----------|:------------|:-----------------------|
+| 50121537                 | BE20241311 28                | 6.8        | KGM               | Kilogramo | 232.00           | 1,577.60  |             | No objeto de impuesto. |
+| Descripción              | Barrilete negro-cubos 200gr. |            |                   |           |                  |           |             |                        |
+
+Número de pedimento
+
+Número de cuenta predial
+
+50121537
+
+BE20241311 28
+
+76.371
+
+KGM
+
+Kilogramo
+
+232.00
+
+17,718.07
+
+No objeto de impuesto.
+
+Descripción
+
+Barrilete negro Filete sin piel
+
+| Número de pedimento   | Número de cuenta predial   |
+|:----------------------|:---------------------------|
+|                       |                            |
+
+|:----------------|:-----------------------------|:---------|:------------|
+| Moneda:         | Peso Mexicano                | Subtotal | $ 19,295.67 |
+| Forma de pago:  | Transferencia electrónica de | Total    | $ 19,295.67 |
+|                 | fondos (incluye SPEI)        |          |             |
+| Método de pago: | Pago en una sola exhibición  |          |             |
+
+Sello digital del CFDI:
+
+Te8ObeWdFXUjdg1xxMzNUvHYSSxgSvWZMI1sNSDGnW9TcJaFcIO42ZcBPxPFifs94mpjO3+oK/7MRBS92DLWzGFJ7obeXWOGoryQUO4IDw1eki0MaV9BeerYs7GF2uDvZhpIMRy1sE pjws/vIXo5bV5COp4DgDQ2ztkQf7huHE+jUyds+djrcvomp1eMSEbCL7m6FRocI1XgCBOkB8xZ6z01J9XX4AYh6Wp/C5GTmHM6/zuWaZG7o+NxCupkgEc0n0KpHIzzol2fCAQnWLhfhP11h ntYooTxqC5EzKYb+09K9xotJallQ8N55hNSWl7ho6x+/Bxgek0BOge+QpKmg==
+
+Sello digital del SAT:
+
+Y8ocME3mbJjict6GgQAUNwSqMcKlqvSG79ZpBKp1tF2DhV590n7wM2zs3uSvYd8+f67z4i64eBJofs/8eJkunELQul8W5Jp8EF5vlpTRyBLszU84vBNiY84cluWZTK2PgB2mWQqxCwhBltvk13 gy+HycWySYU5ynpI3MM54t0ceDo1AY1Hs6h3ql5haie91b7p0+/UJ6TrgLQ4fQSra0OKq+FNtR943fpJB5fsDbYgKFyYpRB7BwwS8r+uo9LCwbzbnwiyabNjpS00jedE27yVQ9II3Hx6iIODfG/IK BzAwGSxZiHiEXGlwL0HAQvF448DHmP9UkUi6BJ5xGWRxEag==
+
+Barcode
+
+Cadena Original del complemento de certificación digital del SAT:
+
+|1.1|658606A1-0861-4B51-964D-50DEFB516C13|2024-09-25T13:13:27|SAT970701NN3|Te8ObeWdFXUjdg1xxMzNUvHYSSxgSvWZMI1sNSDGnW9Tc JaFclO42ZcBPxPFifs94mpjO3+oK/7MRBS92DLWzGFJ7obeXWOGoryQUoO4IDw1eki0MaV9BeerYs7GF2uDvZhpIMRy1sEpjws/vIXo5bV5COp4DgDQ2z tkQf7huHE+jUyds+djrcvomp1eMSEbCL7m6FRocI1XgCBOkB8xZ6z01J9XX4AYh6Wp/C5GTmHM6/zuWaZG7o+NxCupkgEc0n0KpHIzzol2fCAQnWLhfhP 11hntYooTxqC5EzKYb+09K9xotJallQ8N55hNSWl7ho6x+/Bxgek0BOge+QpKmg==|00001000000705250068||
+
+RFC del proveedor de certificación: SAT970701NN3 Fecha y hora de certificación: 2024-09-25 13:13:27
+
+No. de serie del certificado SAT 00001000000705250068
+
+Este documento es una representación impresa de un CFDI
+
+Página 1 de 1

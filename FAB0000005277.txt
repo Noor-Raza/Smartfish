@@ -1,0 +1,84 @@
+Image With Text:
+P
+
+SOCIEDAD COOPERATIVA DE PRODUCCION PESQUERA PUNTA ABREOJOS, S.C. DE R.L.
+
+DOMICILIO FISCAL:
+
+RFC: PPP7612316W1
+
+DOMICILIO CONOCIDO S/N POBLADO PUNTA ABREOJOS, MULEGE, BAJA CALIFORNIA SUR C.P 23970 Lugar de expedición (C.P.):23970
+
+OFICINAS ADMINISTRATIVAS: CALLE MINA No. 415 COLONIA AVIACION ENSENADA BAJA CALIFORNIA C.P 22840
+
+Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras
+
+Cliente: COMERCIALIZADORA HEALTHY FISH
+
+RFC: CHF150630DT5
+
+Régimen Fiscal: 601 - General de Ley Personas Morales
+
+Uso CFDI: G01 Adquisición de mercancias
+
+Forma de Pago: 99 - Por definir
+
+Método de Pago: PPD - Pago en parcialidades o diferido
+
+Domicilio Fiscal: 06100
+
+Tipo de Comprobante: I - Ingreso Serie: AB
+
+Folio: 5277
+
+Fecha: 04/Oct/2024 16:43:35 Moneda: MXN - Peso Mexicano
+
+Tipo de cambio: 1.000000
+
+Domicilio: Amsterdam 26-D Hipódromo Cuauhtémoc Ciudad de México México 06100
+
+| Cant.    | Unid.   | Clave Uni d. SAT   | Clave Prod/ Serv.         | Descripción                   | Valor unitario   | Descto.   | Imptos   | Importe     |
+|:---------|:--------|:-------------------|:--------------------------|:------------------------------|:-----------------|:----------|:---------|:------------|
+| 1,272.58 | KILOS   | KGM - Kilog ramo   | 50121539 - Pescado fresco | Filete de Verdillo Desangrado | $186.00          | $0.00     | -        | $236,699.88 |
+|          |         |                    |                           | empacado al alto vacío        |                  |           |          |             |
+
+Total con letra: doscientos treinta y seis mil seiscientos noventa y nueve Pesos 88/100 M.N.
+
+ESTA FACTURA SE DERIVA DE LA GUÍA DE PESCA No. 03240011524 DEL 04 DE OCTUBRE DEL 2024. A.A. #BE2024120319, BE2024122009 Y BE2024133142.
+
+|:-----------------------|:------------|
+| Subtotal:              | $236,699.88 |
+| Descuentos:            |             |
+| Impuestos Trasladados: | $0.00       |
+| Total:                 | $236,699.88 |
+
+Barcode
+
+Tipo Relación:
+
+Este documento es una representación impresa de un CFDI
+
+|:-------------------------------|:-------------------------|
+| Serie del Certificado del      | 00001000000507648067     |
+| emisor:                        |                          |
+| Folio Fiscal:                  | C7F92D4D-E867-4C1A-BF65- |
+|                                | 55378FBA4F30             |
+| No. de serie del Certificado   | 00001000000709182898     |
+| del SAT:                       |                          |
+| Fecha y hora de certificación: | 2024-10-04T17:43:43      |
+
+Sello digital del CFDI
+
+dpxbXg3WgNqNwrqHnE5kt0Pm/2dVQxBpzbkMy8Cbw9y3534P+lkqHaHvEnsi6ayNJ9aeARYMneOOcyNghWKZVNANrSAuLHmOTKgwCjIOKd55+Q4F7n08+DW5Dy40I6R7yfYkODbsNLXO FJnZMBIrIHWrzWEA1t5jKQ9TrYt+RB3WOXIdxnLWcG281PQtIRnjC3p4/4u6WC8RUk63HdywvidR71cj205dJWaWyFf3AooHQHUGagoOAw3go0jucDwpkESttMpYkP8tRK3ae/oyxeo 8JhJhS1yWi7BMab04/LI/4jThcp9KXuYX33Ahb7ntqE8fGXhGA3SwD8fDBZO/g ==
+
+Sello del SAT
+
+XgwbKx5bLPkRkcr+fmHawbcw9T4WDwrHkfQZDC2Rb6/lkAVEwI9uAgDI6ur/k9e7QIBCvzj+/N2PNQpR/AMx1W4vg8NNG+izjTNZPDQeJ/31djyzQdn/yCnRzxTgo/j6pVTwYORhnBc7l 6Dm4hMuY6h15IrvTkbjxFH8OTg7YQxgAirPLcuc7+UaY0/3Tz3MBg6Hr7C12jlaEzT3QUzc8bNnTHWKH19CXAkh9qvqWxVSboOrQXw6Gx4JFpOfRYHmaPtgnpMLqTuhmZd8qlIBmFuXjb JrwbWoJ9i2p0mQY11/CEVKmCuYucIFOsQJAAO1JWAORjaielPlbQAvDdbwjw ==
+
+Cadena original del complemento del certificación digital del SAT
+
+|1.1|C7F92D4D-E867-4C1A-BF65-55378FBA4F30|2024-10-04T17:43:43|MAS0810247C0|dpxbXg3WgNqNwrqHnE5kt0Pm/2dVQxBpzbkMy8Cbw9y3534P+IkqHaHvEnsi6ayNJ9 aeARYMneOOcyNghWKZVNANrSAuLHmOTKgwCjIOKd55+Q4F7n08+DW5Dy4016R7yfYkODbsNLXOFJnZMBIrlHWrnzWEA1t5jKQ9TrYt+RB3WOXIdxnLWcG281PQtIRnjC3p4/4u6WC8RUk 3HdywvidR71cj205dJWaWyFf3AooHQHUGagoOAw3go0jucDwpkESttMpYkP8tRK3ae/oyxeo8JhJhS1yWi7BMab04/LI/4jThcp9KXuYX33Ahb7ntqE8fGXhGA3SwD8fDBZO/g == |00001 000000709182898||
+
+Versión del comprobante: 4.0
+
+Hoja 1
